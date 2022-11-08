@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reynah762
+- 👋 Hi, I’m @Rehema
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c#
 
